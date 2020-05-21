@@ -1,6 +1,6 @@
 # My Interests
 
-Tennis 
-Singing 
-Gaming
-Writing
+* Tennis 
+* Singing 
+* Gaming
+* Writing
